@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andru/Documents/CLionProjects/Analize and design algorithms/Tar02 - Zeros and Ones/main.cpp
+iostream
+-
+string
+-
+

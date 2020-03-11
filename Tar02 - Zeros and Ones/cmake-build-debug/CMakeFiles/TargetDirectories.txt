@@ -1,0 +1,3 @@
+C:/Users/andru/Documents/CLionProjects/Analize and design algorithms/Tar02 - Zeros and Ones/cmake-build-debug/CMakeFiles/Tar02___Zeros_and_Ones.dir
+C:/Users/andru/Documents/CLionProjects/Analize and design algorithms/Tar02 - Zeros and Ones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andru/Documents/CLionProjects/Analize and design algorithms/Tar02 - Zeros and Ones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
